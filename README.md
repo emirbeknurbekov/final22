@@ -6,7 +6,7 @@
 My project is an online store that sells multi-brand clothes and shoes.
 Implementation:
 
-1. CRUD on JSON*
+1. CRUD on JSON/
 2.Bin
 3.Adaptive layout
 4.Order form
