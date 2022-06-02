@@ -21,3 +21,4 @@ export const FAV = {
 
 export const PRODUCTS_LIMIT = 2;
 export const ADMIN_EMAIL = "emirbek.nurbekov@alatoo.edu.kg";
+ 
