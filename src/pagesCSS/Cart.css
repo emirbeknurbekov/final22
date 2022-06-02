@@ -1,0 +1,12 @@
+.cart-title {
+    text-align: center;
+}
+
+.empty-cart {
+    font-size: 40px;
+}
+
+.price-order {
+    text-align: center;
+    margin: 20px;
+}

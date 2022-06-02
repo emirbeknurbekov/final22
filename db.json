@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "title": "Nike Air Max 97",
+      "type": "Shoes",
+      "price": 5988,
+      "description": "Featuring the original ripple design inspired by Japanese bullet trains, the Nike Air Max 97 lets you push your style full-speed ahead. Taking the revolutionary full-length Nike Air unit that shook up the running world and adding fresh colors and crisp details, it lets you ride in first-class comfort.",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a47b2ef9-8239-4e82-99fd-e6159c0df489/air-max-97-mens-shoes-LJmK45.png",
+      "like": [
+        "zarina@zarina.com"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Nike Air Vapormax Plus",
+      "type": "Shoes",
+      "price": 6990,
+      "description": "Ready, set, go! These kicks look to the past while propeling you into the future. You'll recognize elements of the 1998 original in the signature design, world-class cushioning and iconic heel logo—but our revolutionary VaporMax Air tech transforms it into a modern must-have.",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/adc5fe56-47dd-43d3-b638-d55373779d10/air-vapormax-plus-mens-shoes-nC0dzF.png",
+      "like": [
+        "zarina@zarina.com",
+        "user@mail.ru"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Swim T-Shirt in black technical mesh",
+      "type": "Clothing",
+      "price": 4990,
+      "description": "• Technical Mesh\n• Unifit\n• Large fit\n• Crewneck\n• Balenciaga logo print at front\n• Made in Italy\n• Dry cleaning\n• Model is 185 cm / 6'06\" and is wearing a size S\n• This product cannot be returned for hygiene reasons",
+      "img": "https://balenciaga.dam.kering.com/m/5de17dc2191210b0/eCom-6570274B8B51000_F.jpg?v=1",
+      "like": [
+        "erl@admin.com"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Unity Destroyed Bomber in black cotton ripstop",
+      "type": "Clothing",
+      "price": 8990,
+      "description": "• Cotton ripstop and medium fleece\n• This item is unisex\n• Oversize fit\n• Bomber shape\n• Fake shearling at collar\n• Concealed zipped closure with snap buttons\n• 2 flap pockets\n• Unity logo embroidered tone-on-tone at front\n• Padded lining\n",
+      "img": "https://balenciaga.dam.kering.com/m/29b3e25b8ac48c37/Large-697879TMV891055_F.jpg?v=1",
+      "like": [
+        null
+      ],
+      "id": 6
+    }
+  ],
+  "comment": []
+}

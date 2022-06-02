@@ -1,0 +1,24 @@
+.logo {
+  width: 6vw;
+}
+
+.nav {
+  background: black !important;
+}
+/*# sourceMappingURL=Navbar.css.map */
+
+.mobile-link {
+  display: flex;
+  color: black !important;
+  text-decoration: none;
+}
+
+.active {
+  /* text-decoration: underline !important; */
+  color: black !important;
+}
+
+.mui-link {
+  text-decoration: none;
+  color: black !important;
+}

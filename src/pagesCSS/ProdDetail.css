@@ -1,0 +1,23 @@
+.prod-detail {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 20px;
+  width: 70%;
+  /* height: 50%; */
+}
+
+.detail-title {
+  text-align: center;
+}
+
+.paper {
+  background-color: rgba(6, 4, 4, 0.545) !important;
+  color: white !important;
+  padding-top: 20px;
+}
+
+.img-det {
+  width: 60%;
+  /* height: %; */
+}

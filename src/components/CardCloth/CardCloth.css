@@ -1,0 +1,42 @@
+/* section {
+  position: relative;
+} */
+
+.card-img {
+  max-width: 100%;
+}
+
+.wrapper-img {
+  position: relative;
+  /* max-width: 100%; */
+  margin-top: 1rem;
+}
+.wrapper-img .img-hide {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.wrapper-img:hover .img-hide {
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+}
+
+/* .section {
+  position: absolute;
+  top: 100%;
+  left: 100%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  height: 450px;
+}
+.card-img {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 50%;
+}
+
+.img-hide:hover {
+  width: 100%;
+} */
