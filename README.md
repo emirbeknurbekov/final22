@@ -33,6 +33,10 @@ My project is an online store that sells multi-brand clothes and shoes.
 13.Favorite
 
 14.Forgot password function
+
+##Video on YouTube
+https://youtu.be/rsUb7ttcmhM
+
 ## Screenshots:
 ![Снимок экрана (18)](https://user-images.githubusercontent.com/91878899/171725628-be5237df-594c-4078-983a-d7e3417f300a.png)
 
